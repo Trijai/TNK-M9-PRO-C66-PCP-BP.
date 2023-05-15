@@ -12,6 +12,7 @@ To run the project follow the below commands:
 * myenv/Scripts/activate.bat ( Windows )
 * pip install -r requirements.txt
 * python3 main.py
+* Download yolov3.weights : https://pjreddie.com/media/files/yolov3.weights
 ```
 
 ---
